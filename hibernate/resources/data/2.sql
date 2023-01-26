@@ -1,5 +1,8 @@
-CREATE DATABASE  my_db;
-USE my_db;
+# CREATE DATABASE  my_db;
+CREATE DATABASE IF NOT EXISTS my_db333;
+ USE my_db333;
+-- create the databases
+#CREATE DATABASE IF NOT EXISTS my_db;
 
 
 
